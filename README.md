@@ -1,2 +1,2 @@
 # HiCAL
-HiCAL: Hierarchical Consistency-based Active Learning for Drone-View Object Detection Official Code
+The code will be submitted to this repository after it has been organized.
