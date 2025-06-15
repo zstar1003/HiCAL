@@ -1,6 +1,6 @@
 # HiCAL Overview
 
-PyTorch implementation of "**HiCAL: Hierarchical Consistency-based Active Learning for Drone-View Object Detection **", which has been accepted by TGRS-2025.
+PyTorch implementation of "**HiCAL: Hierarchical Consistency-based Active Learning for Drone-View Object Detection**", which has been accepted by TGRS-2025.
 
 ![](assets/method.jpg)
 
